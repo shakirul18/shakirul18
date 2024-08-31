@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shakirul18
+- 👋 Hi, I’m Shakirul Islam Munna
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Backend Development 
 - 📫 How to reach me Facebook: https://www.facebook.com/shakirulislammunna.00 Whatsapp: +8801637964859
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Munna
+- ⚡ Fun fact: Bathroom singer
 
 <!---
 shakirul18/shakirul18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
